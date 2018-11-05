@@ -1,0 +1,4 @@
+﻿  server.cpp
+e:\18web\lab2\server\server\server.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\18web\lab2\server\server\server.cpp(234): warning C4309: “=”: 截断常量值
+  server.vcxproj -> E:\18web\lab2\server\Debug\server.exe

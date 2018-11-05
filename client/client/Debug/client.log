@@ -1,0 +1,8 @@
+﻿  client.cpp
+e:\18web\lab2\client\client\client.cpp(88): warning C4305: “初始化”: 从“double”到“float”截断
+e:\18web\lab2\client\client\client.cpp(89): warning C4305: “初始化”: 从“double”到“float”截断
+e:\18web\lab2\client\client\client.cpp(161): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\18web\lab2\client\client\client.cpp(182): warning C4309: “=”: 截断常量值
+e:\18web\lab2\client\client\client.cpp(208): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+e:\18web\lab2\client\client\client.cpp(217): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+  client.vcxproj -> E:\18web\lab2\client\Debug\client.exe
